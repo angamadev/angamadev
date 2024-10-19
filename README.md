@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres Garcia</h1>
 <h3 align="center">A passionate fullstack developer from Canary Island, Spain</h3>
 
-- 🌱 I’m currently learning **NodeJs, MySQL**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **HTML, CSS, JS, Python, Linux**
+- 💬 Ask me about **HTML, CSS, JS, Python, Linux, MySQL**
 
 - 📫 How to reach me **angamadev@gmail.com**
 
