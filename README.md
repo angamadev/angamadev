@@ -1,17 +1,33 @@
 <h1 align="center">Hi 👋, I'm Andres Garcia</h1>
-<h3 align="center">A passionate fullstack developer from Canary Island, Spain</h3>
+<h3 align="center">A passionate Fullstack Developer from Canary Island, Spain</h3>
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **HTML, CSS, JS, Python, Linux, MySQL**
-
-- 📫 How to reach me **angamadev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="#english-version">🇬🇧 English</a> | <a href="#versión-en-español">🇪🇸 Español</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🇬🇧 English Version  
+
+### 🌟 About Me  
+- 🌱 I’m currently learning in 
+<a href="https://www.conquerblocks.com/" target="_blank" rel="noreferrer">**Conquer Blocks** </a>.  
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Linux, MySQL,Django**.  
+
+---
+
+### 🌐 Connect with Me  
+- 📫 Email: **angamadev@gmail.com**.  
+
+<p align="left">
+<a href="https://github.com/angamadev" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+</a>
+</p>
+
+---
+
+### 💻 Technologies & Tools  
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -20,4 +36,77 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="  https://cdn.iconscout.com/icon/free/png-512/free-django-11-1175036.png?f=webp&w=256" alt="Django" width="40" height="40" style="background-color:white;"/> 
+</a>
+<!-- More icons here -->
 </p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angamadev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+</p>
+
+---
+
+### 📁 Featured Projects  
+- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Instagram Clone
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" /> 
+</a>](#): This project is an application based on the main functionality of an Instagram adaptation, which allows users to share images, follow other users and explore content, created in Djago.  
+- [**Project 2**](#): Brief description of Project 2.  
+
+---
+
+## 🇪🇸 Versión en Español  
+
+### 🌟 Sobre mí  
+- 🌱 Actualmente estoy aprendiendo para ser desarrollador fullstack en <a href="https://www.conquerblocks.com/" target="_blank" rel="noreferrer">**Conquer Blocks** </a>.  
+- 💬 Pregúntame sobre **HTML, CSS, JavaScript, Python, Linux, MySQL, Django**.  
+
+---
+
+### 🌐 Conecta conmigo 
+- 📫 Email: **angamadev@gmail.com**.  
+
+<p align="left">
+<a href="https://github.com/angamadev" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+</a>
+</p>
+
+---
+
+### 💻 Tecnologías y Herramientas  
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="  https://cdn.iconscout.com/icon/free/png-512/free-django-11-1175036.png?f=webp&w=256" alt="Django" width="40" height="40" style="background-color:white;"/> 
+</a>
+<!-- More icons here -->
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angamadev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+</p>
+
+---
+
+### 📁 Proyecto Destacado  
+- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Proyecto de Instagram
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" /> 
+</a>
+](#): Este proyecto es una aplicación basada en la funcionalidad principal de una adaptacion de Instagram, que permite a los usuarios compartir imágenes, seguir a otros usuarios y explorar contenido, creado en Djago.  
+
+---
+
