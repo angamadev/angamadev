@@ -52,10 +52,8 @@
 ---
 
 ### 📁 Featured Projects  
-- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Instagram Clone
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" /> 
-</a>](#): This project is an application based on the main functionality of an Instagram adaptation, which allows users to share images, follow other users and explore content, created in Djago.  
-- [**Project 2**](#): Brief description of Project 2.  
+- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Instagram Clone</a>
+](#): This project is an application based on the main functionality of an Instagram adaptation, which allows users to share images, follow other users and explore content, created in Djago.  
 
 ---
 
@@ -103,9 +101,7 @@
 ---
 
 ### 📁 Proyecto Destacado  
-- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Proyecto de Instagram
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" /> 
-</a>
+- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Proyecto de Instagram </a>
 ](#): Este proyecto es una aplicación basada en la funcionalidad principal de una adaptacion de Instagram, que permite a los usuarios compartir imágenes, seguir a otros usuarios y explorar contenido, creado en Djago.  
 
 ---
