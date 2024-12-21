@@ -37,7 +37,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="  https://cdn.iconscout.com/icon/free/png-512/free-django-11-1175036.png?f=webp&w=256" alt="Django" width="40" height="40" style="background-color:white;"/> 
+  <img src="https://static-00.iconduck.com/assets.00/django-icon-201x256-i51qs26r.png" alt="Django" width="40" height="40" style="background-color:white;"/> 
 </a>
 <!-- More icons here -->
 </p>
@@ -88,7 +88,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="  https://cdn.iconscout.com/icon/free/png-512/free-django-11-1175036.png?f=webp&w=256" alt="Django" width="40" height="40" style="background-color:white;"/> 
+  <img src="https://static-00.iconduck.com/assets.00/django-icon-201x256-i51qs26r.png" alt="Django" width="40" height="40" style="background-color:white;"/> 
 </a>
 <!-- More icons here -->
 </p>
