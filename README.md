@@ -51,9 +51,13 @@
 
 ---
 
-### 📁 Featured Projects  
-- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Instagram Clone</a>
-](#): This project is an application based on the main functionality of an Instagram adaptation, which allows users to share images, follow other users and explore content, created in Djago.  
+### 📁 Featured Projects
+- **[Instagram Clone](https://github.com/angamadev/instagram)**: Django app inspired by Instagram where users share images, follow other users and explore content.
+- **[Biblioteca](https://github.com/angamadev/Biblioteca)**: Django library manager (books, authors, publishers) with search and Spanish/English translations.
+- **[Limpiezas WP](https://github.com/angamadev/limpiezaswp)**: WordPress website for a cleaning services company.
+- **[Landing responsive con Sass](https://github.com/angamadev/Landing_responsive_Sass)**: responsive landing page built with Sass and Vite.
+- **[Juego de Parejas](https://github.com/angamadev/Juego_Parejas_JS)**: memory card game in JavaScript with a timer.
+- **[Pong](https://github.com/angamadev/Juego_Pong)** and **[Texto a voz](https://github.com/angamadev/Texto-a-voz-python)**: small Python projects with Pygame and gTTS.
 
 ---
 
@@ -100,9 +104,12 @@
 
 ---
 
-### 📁 Proyecto Destacado  
-- [<a href="https://github.com/angamadev/Instagram" target="_blank" rel="noreferrer"> Proyecto de Instagram </a>
-](#): Este proyecto es una aplicación basada en la funcionalidad principal de una adaptacion de Instagram, que permite a los usuarios compartir imágenes, seguir a otros usuarios y explorar contenido, creado en Djago.  
+### 📁 Proyectos destacados
+- **[Clon de Instagram](https://github.com/angamadev/instagram)**: aplicación en Django inspirada en Instagram para compartir imágenes, seguir a otros usuarios y explorar contenido.
+- **[Biblioteca](https://github.com/angamadev/Biblioteca)**: gestor de biblioteca en Django (libros, autores y editoriales) con buscador y traducción español/inglés.
+- **[Limpiezas WP](https://github.com/angamadev/limpiezaswp)**: web en WordPress para una empresa de servicios de limpieza.
+- **[Landing responsive con Sass](https://github.com/angamadev/Landing_responsive_Sass)**: landing page responsive con Sass y Vite.
+- **[Juego de Parejas](https://github.com/angamadev/Juego_Parejas_JS)**: juego de memoria en JavaScript con temporizador.
+- **[Pong](https://github.com/angamadev/Juego_Pong)** y **[Texto a voz](https://github.com/angamadev/Texto-a-voz-python)**: pequeños proyectos en Python con Pygame y gTTS.
 
 ---
-
